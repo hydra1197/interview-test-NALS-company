@@ -1,0 +1,2 @@
+export const GET_USER_LIST_LOADING = 'GET_USER_LIST_LOADING';
+export const SET_USER_LIST = 'SET_USER_LIST';
